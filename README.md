@@ -2,7 +2,7 @@
 
 I'm Kartik Padave.
 
-A Student, Tech Enthusiast, Programmer, Designer and a Foodie 😁.
+A pre-final year CS Student, Tech Enthusiast, Programmer, Designer and a Foodie 😁.
 
 I am interested in Artificial Intelligence and Machine Learning.
 
