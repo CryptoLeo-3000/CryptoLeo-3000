@@ -1,20 +1,20 @@
 ## Hi there 👋
 
-I'm Kartik Padave
+I'm Kartik Padave.
 
 A Student, Tech Enthusiast, Programmer, Designer and a Foodie 😁.
 
-I plan in pursuing Artificial Intelligence and Machine Learning for my career path.
+I am interested in Artificial Intelligence and Machine Learning.
 
 But I also like to explore other fields of Computers like Web Development, UI/UX Designing etc.
 
 ## Reach out to me:
 
+Email: kartikpadave.developer@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/kartikpadave/)
 
 [Instagram](https://www.instagram.com/shinigami_leo/)
-
-[Email ID: kartikpadave.developer@gmail.com](kartikpadave.developer@gmail.com)
 
 [Other Platforms](https://linktr.ee/ShinigamiLeo)
 <!--
