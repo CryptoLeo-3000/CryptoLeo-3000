@@ -12,11 +12,11 @@ But I also like to explore other fields of Computers like Web Development, UI/UX
 
 Email: kartikpadave.developer@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/kartikpadave/)
+<a href="https://www.linkedin.com/in/kartikpadave/" target="_blank">LinkedIn</a>
 
-[Instagram](https://www.instagram.com/shinigami_leo/)
+<a href="https://www.instagram.com/shinigami_leo/" target="_blank">Instagram</a>
 
-[Other Platforms](https://linktr.ee/ShinigamiLeo)
+<a href="https://linktr.ee/ShinigamiLeo" target="_blank">Other Platforms</a>
 <!--
 **CryptoLeo-3000/CryptoLeo-3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
