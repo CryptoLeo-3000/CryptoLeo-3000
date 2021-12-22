@@ -16,6 +16,8 @@ Email: kartikpadave.developer@gmail.com
 
 <a href="https://www.instagram.com/shinigami_leo/" target="_blank">Instagram</a>
 
+<a href="https://twitter.com/ShinigamileoK" target="_blank">Twitter</a>
+
 <a href="https://linktr.ee/ShinigamiLeo" target="_blank">Other Platforms</a>
 <!--
 **CryptoLeo-3000/CryptoLeo-3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
