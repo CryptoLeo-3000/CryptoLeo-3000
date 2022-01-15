@@ -6,7 +6,7 @@ Since a young age, I have always enjoyed solving puzzles. So that's how I look a
 
 On my website you can find my projects, most of them are links to a website, prototypes or interactive visualization.
 
-<a href="https://cryptoleo-3000.github.io/kartikpadave-portfolio/" target="_blank">My Portfolio</a>
+<a href="https://cryptoleo-3000.github.io/" target="_blank">My Portfolio</a>
 
 Have fun in browsing through the content and thank you for visiting!
 
