@@ -1,14 +1,15 @@
-## Hi there 👋
+## Hello 👋
 
-I'm Kartik Padave, currently pursuing B.Tech in Computer Science and an aspiring Data Scientist.
+I'm Kartik Padave, a recent B.Tech graduate in Computer Science with a passion for technology and a diverse skill set.
 
-Since a young age, I have always enjoyed solving puzzles. So that's how I look at big data sets, it is one big puzzle I want to solve. Finding patterns nobody else sees is a challenge to me.
+## My Skills
 
-On my website you can find my projects, most of them are links to a website, prototypes or interactive visualization.
+* Data Analysis
+* UI/UX Designing
+* Web Development
+* Python Programming
 
-<a href="https://cryptoleo-3000.github.io/" target="_blank">My Portfolio</a>
-
-Have fun in browsing through the content and thank you for visiting!
+I'm open to collaborating and working towards building something amazing.
 
 ## Reach out to me:
 
@@ -17,10 +18,6 @@ Have fun in browsing through the content and thank you for visiting!
 <a href="https://www.linkedin.com/in/kartikpadave/" target="_blank">LinkedIn</a>
 
  <a href="https://twitter.com/ShinigamileoK" target="_blank">Twitter</a>
- 
- <a href="https://www.hackerrank.com/KartikPadave" target="_blank">HackerRank</a>
- 
-<a href="https://linktr.ee/ShinigamiLeo" target="_blank">Linktree</a>
 <!--
 **CryptoLeo-3000/CryptoLeo-3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
