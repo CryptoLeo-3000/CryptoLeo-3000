@@ -2,7 +2,7 @@
 
 I'm Kartik Padave, a recent B.Tech graduate in Computer Science with a passion for technology and a diverse skill set.
 
-## My Skills
+## What I bring to the table
 
 * Data Analysis
 * UI/UX Designing
