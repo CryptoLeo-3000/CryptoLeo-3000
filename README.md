@@ -4,6 +4,7 @@ I'm Kartik Padave, a recent B.Tech graduate in Computer Science with a passion f
 
 ## What I bring to the table
 
+* Information Security
 * Data Analysis
 * UI/UX Designing
 * Web Development
