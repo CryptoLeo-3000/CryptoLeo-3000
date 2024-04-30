@@ -1,10 +1,12 @@
 ## Hello 👋
 
-I'm Kartik Padave, a recent B.Tech graduate in Computer Science with a passion for technology and a diverse skill set.
+I'm Kartik Padave, a B.Tech in Computer Science with a passion for technology and interested in acquiring a diverse skill set.
+Currently, I work as a Governance Risk and Compliance auditor at Qseap Infotech Pvt. Ltd.
 
 ## What I bring to the table
 
 * Information Security
+* GRC Auditor
 * Data Analysis
 * UI/UX Designing
 * Web Development
@@ -14,7 +16,7 @@ I'm open to collaborating and working towards building something amazing.
 
 ## Reach out to me:
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kartikpadave.developer@gmail.com&bcc=padavekartik@gmail.com" target="_blank">Mail</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kartikpadave.developer@gmail.com&bcc=padavekarti@gmail.com" target="_blank">Mail</a>
 
 <a href="https://www.linkedin.com/in/kartikpadave/" target="_blank">LinkedIn</a>
 
